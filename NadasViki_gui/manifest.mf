@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Manifest-Version: 1.0
-X-COMMENT: Main-Class will be added automatically by build
-
-=======
-Manifest-Version: 1.0
-X-COMMENT: Main-Class will be added automatically by build
-
->>>>>>> 0a027d003c35c6981f01a72a467e04bd298bde91
